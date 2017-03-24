@@ -1,1 +1,1 @@
-# duplicateFider
+# duplicateFinder
